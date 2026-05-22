@@ -6,3 +6,4 @@ Perfect for quick analysis, troubleshooting, malware research, coding, or just n
 ---
 
 Test it here: https://david-marin-0xff.github.io/tech-tools-online/
+ or here: https://tech-tools-online.david-marin-0xff.workers.dev 
